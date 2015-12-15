@@ -3,5 +3,5 @@
   "name": "Heroku PHP Demo",
   "description": "A super basic PHP app",
   "website": "https://github.com/gpeden/hello-php",
-  "repository": "https://github.com/gpeden/hello-php,
+  "repository": "https://github.com/gpeden/hello-php",
 }
